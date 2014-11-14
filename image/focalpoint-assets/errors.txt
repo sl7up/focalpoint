@@ -1,0 +1,15 @@
+[Thu Nov 13 2014 02:53:31 GMT+0200 (Финляндия (зима))]
+section.png: ImageMagick error: convert.exe: Must specify image size `-' @ error/rgb.c/ReadRGBImage/144.
+convert.exe: no images defined `png:-' @ error/convert.c/ConvertImageCommand/3106.
+
+
+[Thu Nov 13 2014 02:53:31 GMT+0200 (Финляндия (зима))]
+trees.png: ImageMagick error: convert.exe: Must specify image size `-' @ error/rgb.c/ReadRGBImage/144.
+convert.exe: no images defined `png:-' @ error/convert.c/ConvertImageCommand/3106.
+
+
+[Thu Nov 13 2014 03:02:06 GMT+0200 (Финляндия (зима))]
+trees.png: ImageMagick error: convert.exe: Must specify image size `-' @ error/rgb.c/ReadRGBImage/144.
+convert.exe: no images defined `png:-' @ error/convert.c/ConvertImageCommand/3106.
+
+
